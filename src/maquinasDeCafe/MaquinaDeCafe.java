@@ -26,8 +26,4 @@ public abstract class MaquinaDeCafe {
 		return this.gramosDeCafe >= GRAMOS_POR_CAFE;
 	}
 
-	private void syso() {
-		// TODO Auto-generated method stub
-
-	}
 }
