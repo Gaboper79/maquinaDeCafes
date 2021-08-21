@@ -25,4 +25,9 @@ public abstract class MaquinaDeCafe {
 	protected boolean puedeServir() {
 		return this.gramosDeCafe >= GRAMOS_POR_CAFE;
 	}
+
+	private void syso() {
+		// TODO Auto-generated method stub
+
+	}
 }
